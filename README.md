@@ -54,4 +54,4 @@
 ---
 
 ## ✨ Fun Fact
-I enjoy working on automation tools and backend optimizations — and I love watching mind-bending movies like *Tenet* and *Mad Max: Fury Road* 🎬
+I enjoy working on automation tools and backend optimizations 
