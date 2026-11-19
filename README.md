@@ -4,8 +4,7 @@
 > Skilled in **JavaScript (ES6+), TypeScript, Express.js, GraphQL**, and modern **Microservices Architecture**.  
 > Proven expertise in **event-driven programming**, **optimization techniques**, and hands-on experience with **Azure**, **AWS Lambda**, **Docker**, and **CI/CD pipelines**.
 
-📧 **Email:** [mccmrunal@gmail.com](mailto:mccmrunal@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/mccmrunal](https://linkedin.com/in/mccmrunal)
+
 
 ---
 
